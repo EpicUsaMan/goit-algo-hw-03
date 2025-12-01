@@ -1,5 +1,7 @@
 # Homework 03: Recursion and Algorithms
 
+![Coverage](coverage.svg)
+
 This project contains three Python programs that demonstrate the use of recursion for solving different computational problems.
 
 ## Python Version
