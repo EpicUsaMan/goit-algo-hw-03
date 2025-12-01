@@ -1,0 +1,15 @@
+[run]
+source = src
+omit = 
+    */tests/*
+    */__init__.py
+    */site-packages/*
+
+[report]
+precision = 0
+show_missing = True
+skip_covered = False
+
+[html]
+directory = htmlcov
+
